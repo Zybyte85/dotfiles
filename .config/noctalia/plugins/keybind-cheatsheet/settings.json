@@ -1,0 +1,106 @@
+{
+  "cheatsheetData": [
+    {
+      "title": "Applications",
+      "binds": [
+        {
+          "keys": "Super + T",
+          "desc": "Terminal"
+        },
+        {
+          "keys": "Super + E",
+          "desc": "File manager"
+        },
+        {
+          "keys": "Super + B",
+          "desc": "Browser"
+        },
+        {
+          "keys": "Super + C",
+          "desc": "Text editor"
+        }
+      ]
+    },
+    {
+      "title": "Window Management",
+      "binds": [
+        {
+          "keys": "Super + Q",
+          "desc": "Close focused window"
+        },
+        {
+          "keys": "Super + M",
+          "desc": "Logout"
+        },
+        {
+          "keys": "Super + V",
+          "desc": "Toggle floating"
+        },
+        {
+          "keys": "F11",
+          "desc": "Toggle fullscreen"
+        },
+        {
+          "keys": "Super + LEFT",
+          "desc": "Move focus left"
+        },
+        {
+          "keys": "Super + RIGHT",
+          "desc": "Move focus right"
+        },
+        {
+          "keys": "Super + UP",
+          "desc": "Move focus up"
+        },
+        {
+          "keys": "Super + DOWN",
+          "desc": "Move focus down"
+        }
+      ]
+    },
+    {
+      "title": "Shell",
+      "binds": [
+        {
+          "keys": "Super + SPACE",
+          "desc": "Open launcher"
+        },
+        {
+          "keys": "Super + N",
+          "desc": "Open control center"
+        },
+        {
+          "keys": "Super + COMMA",
+          "desc": "Open settings"
+        },
+        {
+          "keys": "Super + Shift + K",
+          "desc": "Open keybind cheatsheet"
+        }
+      ]
+    },
+    {
+      "title": "Screenshot",
+      "binds": [
+        {
+          "keys": "PrtSc",
+          "desc": "Screenshot full screen"
+        },
+        {
+          "keys": "Ctrl + PrtSc",
+          "desc": "Screenshot region"
+        },
+        {
+          "keys": "Shift + Ctrl + PrtSc",
+          "desc": "Screenshot active window"
+        }
+      ]
+    }
+  ],
+  "detectedCompositor": "hyprland",
+  "niriConfigPath": "~/.config/niri/config.kdl",
+  "hyprlandConfigPath": "~/.config/hypr/hyprland.conf",
+  "modKeyVariable": "$mainMod",
+  "windowHeight": 850,
+  "windowWidth": 1400
+}
